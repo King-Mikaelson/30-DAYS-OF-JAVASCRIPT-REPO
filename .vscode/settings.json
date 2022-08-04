@@ -1,0 +1,5 @@
+{
+    "quokka.automaticRestart": true,
+    "quokka.untrustedWorkspaceBehavior": "Always allow",
+    "quokka.showValueOnMultilineSelection": true
+}
